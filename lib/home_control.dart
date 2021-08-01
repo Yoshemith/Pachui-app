@@ -22,7 +22,7 @@ class _HomeControlState extends State<HomeControl> {
       backgroundColor: Colors.white,
       appBar: _appBar(),
       bottomNavigationBar: CurvedNavigationBar(
-        height: 50.0,
+        height: 55.0,
         buttonBackgroundColor: Color(0XFFE8F6F2),
         color: Color(0XFFE8F6F2),
         backgroundColor: Colors.transparent, //Color(0XFF29A3A8),

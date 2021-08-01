@@ -11,7 +11,10 @@ class _AccountState extends State<Account> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text('Account'),
+      body: Container(
+        alignment: Alignment.center,
+        child: Text('Cuenta de usuario'),
+      ),
     );
   }
 }
