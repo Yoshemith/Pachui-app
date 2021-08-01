@@ -10,6 +10,8 @@ Pachui App es una aplicacion movil que permitirá al usuario dar seguimiento al 
 --solucion- prototipo funcionando-
 --recursos de azure utilizados
 - Diagrama de Azure
+- ![image](https://user-images.githubusercontent.com/86860632/127775270-2d06aeeb-e3bc-448f-99e4-55bdf6f0b35a.png)
+
 - SLA Compuesto -dos o 3 decimales-
 - TCO y Precio Mensual - costo para toda la poblacion objetivo-
 - Tiempo sin disponibilidad 1 año
