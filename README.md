@@ -14,7 +14,7 @@ Pachui App es una aplicacion movil que permitirá al usuario dar seguimiento al 
 
 - SLA Compuesto 99.94%
 - TCO y Precio Mensual - costo para toda la poblacion objetivo-
-- Tiempo sin disponibilidad 1 año 315.36 minutos
+- Tiempo sin disponibilidad 1 año 315.36 minutos.
 
 
 
